@@ -1,0 +1,23 @@
+{
+  "name": "tjscore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ofthestorm",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.1.0",
+    "cheerio": "^1.0.0-rc.2",
+    "cli-spinner": "^0.2.6",
+    "eventproxy": "^1.0.0",
+    "fs": "0.0.1-security",
+    "gm": "^1.23.0",
+    "node-tesseract": "^0.2.7",
+    "request": "^2.83.0",
+    "superagent": "^3.6.2",
+    "utility": "^1.12.0"
+  }
+}
